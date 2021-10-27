@@ -1,0 +1,22 @@
+{
+  "name": "next12perf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Damian Frizzi",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^12.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "terser": "^5.9.0",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.33"
+  }
+}
